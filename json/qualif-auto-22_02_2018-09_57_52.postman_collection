@@ -1,0 +1,1227 @@
+{
+	"id": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
+	"name": " ##### DELETE QUALIF AUTO #####",
+	"description": "",
+	"order": ["c1ff327b-7fe2-0d72-dac3-nF93dUGg1YtB","c1ff327b-7fe2-0d72-dac3-dVvHa83eMsSc","c1ff327b-7fe2-0d72-dac3-r5H8S46KVbYa","c1ff327b-7fe2-0d72-dac3-iel8KZ8kZAep","c1ff327b-7fe2-0d72-dac3-EiNoiA8wszwO","c1ff327b-7fe2-0d72-dac3-UnFDSx8oVQp1","c1ff327b-7fe2-0d72-dac3-0vrvEWED3srj","c1ff327b-7fe2-0d72-dac3-PN97UB8Bvy24","c1ff327b-7fe2-0d72-dac3-BNORJm6vNZ56","c1ff327b-7fe2-0d72-dac3-Lu2Wk7Hajdtg","c1ff327b-7fe2-0d72-dac3-FOAhhd7L5G2a","c1ff327b-7fe2-0d72-dac3-NbCJCyEavEwb","c1ff327b-7fe2-0d72-dac3-emgu7v8igq8F","c1ff327b-7fe2-0d72-dac3-FWTKlh2sJBzs","c1ff327b-7fe2-0d72-dac3-LprzhZ9I8LIU","c1ff327b-7fe2-0d72-dac3-GiuU34Gw0s99","c1ff327b-7fe2-0d72-dac3-aAdG2bG5jGIW","c1ff327b-7fe2-0d72-dac3-a1CwKk9JIrot","c1ff327b-7fe2-0d72-dac3-F1tlQQE7hD7e","c1ff327b-7fe2-0d72-dac3-vmCt4M27Y8OU","c1ff327b-7fe2-0d72-dac3-aAWtuXARIabk","c1ff327b-7fe2-0d72-dac3-EDTj0q5j5uZ8","c1ff327b-7fe2-0d72-dac3-ukloOt6hg3j5","c1ff327b-7fe2-0d72-dac3-80EyWBC0CLv2","c1ff327b-7fe2-0d72-dac3-SF1QX66rTJYC","c1ff327b-7fe2-0d72-dac3-FIb3rqFBDxzy","c1ff327b-7fe2-0d72-dac3-fa4PYlFTyWVw","c1ff327b-7fe2-0d72-dac3-dF4v1H3bNOhf","c1ff327b-7fe2-0d72-dac3-kHlhRZ8oLdg4","c1ff327b-7fe2-0d72-dac3-jQ5nzyChaFoZ","c1ff327b-7fe2-0d72-dac3-Q659fSGSpPl5","c1ff327b-7fe2-0d72-dac3-fiBAr26gOy6q"],
+	"folders": [],
+	"folders_order": [],
+	"timestamp": 1519131122908,
+	"owner": "161663",
+	"public": false,
+	"requests": [ {
+            "id": "c1ff327b-7fe2-0d72-dac3-nF93dUGg1YtB",
+			"headers": "Content-Type: application/json\nX-OAPI-User-Id: 24\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "X-OAPI-User-Id",
+					"value": "24",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/nF93dUGg1YtB7tmI/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": "",
+			"method": "DELETE",
+			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
+			"data": [],
+			"dataMode": "raw",
+			"name": "# delete offer qualif - SQL QUALIF copy",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1519131125776,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"isFromCollection": true,
+			"collectionRequestId": "c1ff327b-7fe2-0d72-dac3-e86ac93288fb",
+			"rawModeData": ""
+        },{
+            "id": "c1ff327b-7fe2-0d72-dac3-dVvHa83eMsSc",
+			"headers": "Content-Type: application/json\nX-OAPI-User-Id: 24\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "X-OAPI-User-Id",
+					"value": "24",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/dVvHa83eMsScqd8k/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": "",
+			"method": "DELETE",
+			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
+			"data": [],
+			"dataMode": "raw",
+			"name": "# delete offer qualif - SQL QUALIF copy",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1519131125776,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"isFromCollection": true,
+			"collectionRequestId": "c1ff327b-7fe2-0d72-dac3-e86ac93288fb",
+			"rawModeData": ""
+        },{
+            "id": "c1ff327b-7fe2-0d72-dac3-r5H8S46KVbYa",
+			"headers": "Content-Type: application/json\nX-OAPI-User-Id: 24\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "X-OAPI-User-Id",
+					"value": "24",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/r5H8S46KVbYaEj4D/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": "",
+			"method": "DELETE",
+			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
+			"data": [],
+			"dataMode": "raw",
+			"name": "# delete offer qualif - SQL QUALIF copy",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1519131125776,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"isFromCollection": true,
+			"collectionRequestId": "c1ff327b-7fe2-0d72-dac3-e86ac93288fb",
+			"rawModeData": ""
+        },{
+            "id": "c1ff327b-7fe2-0d72-dac3-iel8KZ8kZAep",
+			"headers": "Content-Type: application/json\nX-OAPI-User-Id: 24\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "X-OAPI-User-Id",
+					"value": "24",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/iel8KZ8kZAepzj4s/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": "",
+			"method": "DELETE",
+			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
+			"data": [],
+			"dataMode": "raw",
+			"name": "# delete offer qualif - SQL QUALIF copy",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1519131125776,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"isFromCollection": true,
+			"collectionRequestId": "c1ff327b-7fe2-0d72-dac3-e86ac93288fb",
+			"rawModeData": ""
+        },{
+            "id": "c1ff327b-7fe2-0d72-dac3-EiNoiA8wszwO",
+			"headers": "Content-Type: application/json\nX-OAPI-User-Id: 24\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "X-OAPI-User-Id",
+					"value": "24",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/EiNoiA8wszwODlPs/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": "",
+			"method": "DELETE",
+			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
+			"data": [],
+			"dataMode": "raw",
+			"name": "# delete offer qualif - SQL QUALIF copy",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1519131125776,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"isFromCollection": true,
+			"collectionRequestId": "c1ff327b-7fe2-0d72-dac3-e86ac93288fb",
+			"rawModeData": ""
+        },{
+            "id": "c1ff327b-7fe2-0d72-dac3-UnFDSx8oVQp1",
+			"headers": "Content-Type: application/json\nX-OAPI-User-Id: 24\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "X-OAPI-User-Id",
+					"value": "24",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/UnFDSx8oVQp1RKFq/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": "",
+			"method": "DELETE",
+			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
+			"data": [],
+			"dataMode": "raw",
+			"name": "# delete offer qualif - SQL QUALIF copy",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1519131125776,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"isFromCollection": true,
+			"collectionRequestId": "c1ff327b-7fe2-0d72-dac3-e86ac93288fb",
+			"rawModeData": ""
+        },{
+            "id": "c1ff327b-7fe2-0d72-dac3-0vrvEWED3srj",
+			"headers": "Content-Type: application/json\nX-OAPI-User-Id: 24\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "X-OAPI-User-Id",
+					"value": "24",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/0vrvEWED3srjU81X/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": "",
+			"method": "DELETE",
+			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
+			"data": [],
+			"dataMode": "raw",
+			"name": "# delete offer qualif - SQL QUALIF copy",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1519131125776,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"isFromCollection": true,
+			"collectionRequestId": "c1ff327b-7fe2-0d72-dac3-e86ac93288fb",
+			"rawModeData": ""
+        },{
+            "id": "c1ff327b-7fe2-0d72-dac3-PN97UB8Bvy24",
+			"headers": "Content-Type: application/json\nX-OAPI-User-Id: 24\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "X-OAPI-User-Id",
+					"value": "24",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/PN97UB8Bvy241o0R/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": "",
+			"method": "DELETE",
+			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
+			"data": [],
+			"dataMode": "raw",
+			"name": "# delete offer qualif - SQL QUALIF copy",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1519131125776,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"isFromCollection": true,
+			"collectionRequestId": "c1ff327b-7fe2-0d72-dac3-e86ac93288fb",
+			"rawModeData": ""
+        },{
+            "id": "c1ff327b-7fe2-0d72-dac3-BNORJm6vNZ56",
+			"headers": "Content-Type: application/json\nX-OAPI-User-Id: 24\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "X-OAPI-User-Id",
+					"value": "24",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/BNORJm6vNZ56WagW/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": "",
+			"method": "DELETE",
+			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
+			"data": [],
+			"dataMode": "raw",
+			"name": "# delete offer qualif - SQL QUALIF copy",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1519131125776,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"isFromCollection": true,
+			"collectionRequestId": "c1ff327b-7fe2-0d72-dac3-e86ac93288fb",
+			"rawModeData": ""
+        },{
+            "id": "c1ff327b-7fe2-0d72-dac3-Lu2Wk7Hajdtg",
+			"headers": "Content-Type: application/json\nX-OAPI-User-Id: 24\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "X-OAPI-User-Id",
+					"value": "24",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/Lu2Wk7HajdtgRF3i/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": "",
+			"method": "DELETE",
+			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
+			"data": [],
+			"dataMode": "raw",
+			"name": "# delete offer qualif - SQL QUALIF copy",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1519131125776,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"isFromCollection": true,
+			"collectionRequestId": "c1ff327b-7fe2-0d72-dac3-e86ac93288fb",
+			"rawModeData": ""
+        },{
+            "id": "c1ff327b-7fe2-0d72-dac3-FOAhhd7L5G2a",
+			"headers": "Content-Type: application/json\nX-OAPI-User-Id: 24\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "X-OAPI-User-Id",
+					"value": "24",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/FOAhhd7L5G2anSLV/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": "",
+			"method": "DELETE",
+			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
+			"data": [],
+			"dataMode": "raw",
+			"name": "# delete offer qualif - SQL QUALIF copy",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1519131125776,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"isFromCollection": true,
+			"collectionRequestId": "c1ff327b-7fe2-0d72-dac3-e86ac93288fb",
+			"rawModeData": ""
+        },{
+            "id": "c1ff327b-7fe2-0d72-dac3-NbCJCyEavEwb",
+			"headers": "Content-Type: application/json\nX-OAPI-User-Id: 24\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "X-OAPI-User-Id",
+					"value": "24",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/NbCJCyEavEwbQHfT/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": "",
+			"method": "DELETE",
+			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
+			"data": [],
+			"dataMode": "raw",
+			"name": "# delete offer qualif - SQL QUALIF copy",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1519131125776,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"isFromCollection": true,
+			"collectionRequestId": "c1ff327b-7fe2-0d72-dac3-e86ac93288fb",
+			"rawModeData": ""
+        },{
+            "id": "c1ff327b-7fe2-0d72-dac3-emgu7v8igq8F",
+			"headers": "Content-Type: application/json\nX-OAPI-User-Id: 24\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "X-OAPI-User-Id",
+					"value": "24",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/emgu7v8igq8F40oj/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": "",
+			"method": "DELETE",
+			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
+			"data": [],
+			"dataMode": "raw",
+			"name": "# delete offer qualif - SQL QUALIF copy",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1519131125776,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"isFromCollection": true,
+			"collectionRequestId": "c1ff327b-7fe2-0d72-dac3-e86ac93288fb",
+			"rawModeData": ""
+        },{
+            "id": "c1ff327b-7fe2-0d72-dac3-FWTKlh2sJBzs",
+			"headers": "Content-Type: application/json\nX-OAPI-User-Id: 24\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "X-OAPI-User-Id",
+					"value": "24",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/FWTKlh2sJBzsEh95/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": "",
+			"method": "DELETE",
+			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
+			"data": [],
+			"dataMode": "raw",
+			"name": "# delete offer qualif - SQL QUALIF copy",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1519131125776,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"isFromCollection": true,
+			"collectionRequestId": "c1ff327b-7fe2-0d72-dac3-e86ac93288fb",
+			"rawModeData": ""
+        },{
+            "id": "c1ff327b-7fe2-0d72-dac3-LprzhZ9I8LIU",
+			"headers": "Content-Type: application/json\nX-OAPI-User-Id: 24\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "X-OAPI-User-Id",
+					"value": "24",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/LprzhZ9I8LIUQ6Xf/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": "",
+			"method": "DELETE",
+			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
+			"data": [],
+			"dataMode": "raw",
+			"name": "# delete offer qualif - SQL QUALIF copy",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1519131125776,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"isFromCollection": true,
+			"collectionRequestId": "c1ff327b-7fe2-0d72-dac3-e86ac93288fb",
+			"rawModeData": ""
+        },{
+            "id": "c1ff327b-7fe2-0d72-dac3-GiuU34Gw0s99",
+			"headers": "Content-Type: application/json\nX-OAPI-User-Id: 24\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "X-OAPI-User-Id",
+					"value": "24",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/GiuU34Gw0s99K6cp/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": "",
+			"method": "DELETE",
+			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
+			"data": [],
+			"dataMode": "raw",
+			"name": "# delete offer qualif - SQL QUALIF copy",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1519131125776,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"isFromCollection": true,
+			"collectionRequestId": "c1ff327b-7fe2-0d72-dac3-e86ac93288fb",
+			"rawModeData": ""
+        },{
+            "id": "c1ff327b-7fe2-0d72-dac3-aAdG2bG5jGIW",
+			"headers": "Content-Type: application/json\nX-OAPI-User-Id: 24\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "X-OAPI-User-Id",
+					"value": "24",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/aAdG2bG5jGIW6kn2/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": "",
+			"method": "DELETE",
+			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
+			"data": [],
+			"dataMode": "raw",
+			"name": "# delete offer qualif - SQL QUALIF copy",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1519131125776,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"isFromCollection": true,
+			"collectionRequestId": "c1ff327b-7fe2-0d72-dac3-e86ac93288fb",
+			"rawModeData": ""
+        },{
+            "id": "c1ff327b-7fe2-0d72-dac3-a1CwKk9JIrot",
+			"headers": "Content-Type: application/json\nX-OAPI-User-Id: 24\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "X-OAPI-User-Id",
+					"value": "24",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/a1CwKk9JIrotym0D/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": "",
+			"method": "DELETE",
+			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
+			"data": [],
+			"dataMode": "raw",
+			"name": "# delete offer qualif - SQL QUALIF copy",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1519131125776,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"isFromCollection": true,
+			"collectionRequestId": "c1ff327b-7fe2-0d72-dac3-e86ac93288fb",
+			"rawModeData": ""
+        },{
+            "id": "c1ff327b-7fe2-0d72-dac3-F1tlQQE7hD7e",
+			"headers": "Content-Type: application/json\nX-OAPI-User-Id: 24\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "X-OAPI-User-Id",
+					"value": "24",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/F1tlQQE7hD7e855b/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": "",
+			"method": "DELETE",
+			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
+			"data": [],
+			"dataMode": "raw",
+			"name": "# delete offer qualif - SQL QUALIF copy",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1519131125776,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"isFromCollection": true,
+			"collectionRequestId": "c1ff327b-7fe2-0d72-dac3-e86ac93288fb",
+			"rawModeData": ""
+        },{
+            "id": "c1ff327b-7fe2-0d72-dac3-vmCt4M27Y8OU",
+			"headers": "Content-Type: application/json\nX-OAPI-User-Id: 24\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "X-OAPI-User-Id",
+					"value": "24",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/vmCt4M27Y8OUbQjE/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": "",
+			"method": "DELETE",
+			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
+			"data": [],
+			"dataMode": "raw",
+			"name": "# delete offer qualif - SQL QUALIF copy",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1519131125776,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"isFromCollection": true,
+			"collectionRequestId": "c1ff327b-7fe2-0d72-dac3-e86ac93288fb",
+			"rawModeData": ""
+        },{
+            "id": "c1ff327b-7fe2-0d72-dac3-aAWtuXARIabk",
+			"headers": "Content-Type: application/json\nX-OAPI-User-Id: 24\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "X-OAPI-User-Id",
+					"value": "24",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/aAWtuXARIabki2h2/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": "",
+			"method": "DELETE",
+			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
+			"data": [],
+			"dataMode": "raw",
+			"name": "# delete offer qualif - SQL QUALIF copy",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1519131125776,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"isFromCollection": true,
+			"collectionRequestId": "c1ff327b-7fe2-0d72-dac3-e86ac93288fb",
+			"rawModeData": ""
+        },{
+            "id": "c1ff327b-7fe2-0d72-dac3-EDTj0q5j5uZ8",
+			"headers": "Content-Type: application/json\nX-OAPI-User-Id: 24\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "X-OAPI-User-Id",
+					"value": "24",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/EDTj0q5j5uZ82gIF/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": "",
+			"method": "DELETE",
+			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
+			"data": [],
+			"dataMode": "raw",
+			"name": "# delete offer qualif - SQL QUALIF copy",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1519131125776,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"isFromCollection": true,
+			"collectionRequestId": "c1ff327b-7fe2-0d72-dac3-e86ac93288fb",
+			"rawModeData": ""
+        },{
+            "id": "c1ff327b-7fe2-0d72-dac3-ukloOt6hg3j5",
+			"headers": "Content-Type: application/json\nX-OAPI-User-Id: 24\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "X-OAPI-User-Id",
+					"value": "24",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/ukloOt6hg3j5qpYi/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": "",
+			"method": "DELETE",
+			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
+			"data": [],
+			"dataMode": "raw",
+			"name": "# delete offer qualif - SQL QUALIF copy",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1519131125776,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"isFromCollection": true,
+			"collectionRequestId": "c1ff327b-7fe2-0d72-dac3-e86ac93288fb",
+			"rawModeData": ""
+        },{
+            "id": "c1ff327b-7fe2-0d72-dac3-80EyWBC0CLv2",
+			"headers": "Content-Type: application/json\nX-OAPI-User-Id: 24\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "X-OAPI-User-Id",
+					"value": "24",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/80EyWBC0CLv2Vrdi/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": "",
+			"method": "DELETE",
+			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
+			"data": [],
+			"dataMode": "raw",
+			"name": "# delete offer qualif - SQL QUALIF copy",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1519131125776,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"isFromCollection": true,
+			"collectionRequestId": "c1ff327b-7fe2-0d72-dac3-e86ac93288fb",
+			"rawModeData": ""
+        },{
+            "id": "c1ff327b-7fe2-0d72-dac3-SF1QX66rTJYC",
+			"headers": "Content-Type: application/json\nX-OAPI-User-Id: 24\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "X-OAPI-User-Id",
+					"value": "24",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/SF1QX66rTJYC5Fdt/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": "",
+			"method": "DELETE",
+			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
+			"data": [],
+			"dataMode": "raw",
+			"name": "# delete offer qualif - SQL QUALIF copy",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1519131125776,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"isFromCollection": true,
+			"collectionRequestId": "c1ff327b-7fe2-0d72-dac3-e86ac93288fb",
+			"rawModeData": ""
+        },{
+            "id": "c1ff327b-7fe2-0d72-dac3-FIb3rqFBDxzy",
+			"headers": "Content-Type: application/json\nX-OAPI-User-Id: 24\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "X-OAPI-User-Id",
+					"value": "24",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/FIb3rqFBDxzynFn9/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": "",
+			"method": "DELETE",
+			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
+			"data": [],
+			"dataMode": "raw",
+			"name": "# delete offer qualif - SQL QUALIF copy",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1519131125776,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"isFromCollection": true,
+			"collectionRequestId": "c1ff327b-7fe2-0d72-dac3-e86ac93288fb",
+			"rawModeData": ""
+        },{
+            "id": "c1ff327b-7fe2-0d72-dac3-fa4PYlFTyWVw",
+			"headers": "Content-Type: application/json\nX-OAPI-User-Id: 24\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "X-OAPI-User-Id",
+					"value": "24",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/fa4PYlFTyWVwVAfl/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": "",
+			"method": "DELETE",
+			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
+			"data": [],
+			"dataMode": "raw",
+			"name": "# delete offer qualif - SQL QUALIF copy",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1519131125776,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"isFromCollection": true,
+			"collectionRequestId": "c1ff327b-7fe2-0d72-dac3-e86ac93288fb",
+			"rawModeData": ""
+        },{
+            "id": "c1ff327b-7fe2-0d72-dac3-dF4v1H3bNOhf",
+			"headers": "Content-Type: application/json\nX-OAPI-User-Id: 24\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "X-OAPI-User-Id",
+					"value": "24",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/dF4v1H3bNOhfN5Ss/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": "",
+			"method": "DELETE",
+			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
+			"data": [],
+			"dataMode": "raw",
+			"name": "# delete offer qualif - SQL QUALIF copy",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1519131125776,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"isFromCollection": true,
+			"collectionRequestId": "c1ff327b-7fe2-0d72-dac3-e86ac93288fb",
+			"rawModeData": ""
+        },{
+            "id": "c1ff327b-7fe2-0d72-dac3-kHlhRZ8oLdg4",
+			"headers": "Content-Type: application/json\nX-OAPI-User-Id: 24\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "X-OAPI-User-Id",
+					"value": "24",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/kHlhRZ8oLdg4rj6p/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": "",
+			"method": "DELETE",
+			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
+			"data": [],
+			"dataMode": "raw",
+			"name": "# delete offer qualif - SQL QUALIF copy",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1519131125776,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"isFromCollection": true,
+			"collectionRequestId": "c1ff327b-7fe2-0d72-dac3-e86ac93288fb",
+			"rawModeData": ""
+        },{
+            "id": "c1ff327b-7fe2-0d72-dac3-jQ5nzyChaFoZ",
+			"headers": "Content-Type: application/json\nX-OAPI-User-Id: 24\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "X-OAPI-User-Id",
+					"value": "24",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/jQ5nzyChaFoZZMMc/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": "",
+			"method": "DELETE",
+			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
+			"data": [],
+			"dataMode": "raw",
+			"name": "# delete offer qualif - SQL QUALIF copy",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1519131125776,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"isFromCollection": true,
+			"collectionRequestId": "c1ff327b-7fe2-0d72-dac3-e86ac93288fb",
+			"rawModeData": ""
+        },{
+            "id": "c1ff327b-7fe2-0d72-dac3-Q659fSGSpPl5",
+			"headers": "Content-Type: application/json\nX-OAPI-User-Id: 24\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "X-OAPI-User-Id",
+					"value": "24",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/Q659fSGSpPl5S5l0/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": "",
+			"method": "DELETE",
+			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
+			"data": [],
+			"dataMode": "raw",
+			"name": "# delete offer qualif - SQL QUALIF copy",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1519131125776,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"isFromCollection": true,
+			"collectionRequestId": "c1ff327b-7fe2-0d72-dac3-e86ac93288fb",
+			"rawModeData": ""
+        },{
+            "id": "c1ff327b-7fe2-0d72-dac3-fiBAr26gOy6q",
+			"headers": "Content-Type: application/json\nX-OAPI-User-Id: 24\n",
+			"headerData": [
+				{
+					"key": "Content-Type",
+					"value": "application/json",
+					"description": "",
+					"enabled": true
+				},
+				{
+					"key": "X-OAPI-User-Id",
+					"value": "24",
+					"description": "",
+					"enabled": true
+				}
+			],
+			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/fiBAr26gOy6qPLgY/delete",
+			"queryParams": [],
+			"pathVariables": {},
+			"pathVariableData": [],
+			"preRequestScript": "",
+			"method": "DELETE",
+			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
+			"data": [],
+			"dataMode": "raw",
+			"name": "# delete offer qualif - SQL QUALIF copy",
+			"description": "",
+			"descriptionFormat": "html",
+			"time": 1519131125776,
+			"version": 2,
+			"responses": [],
+			"tests": "",
+			"currentHelper": "normal",
+			"helperAttributes": {},
+			"isFromCollection": true,
+			"collectionRequestId": "c1ff327b-7fe2-0d72-dac3-e86ac93288fb",
+			"rawModeData": ""
+        }]}
