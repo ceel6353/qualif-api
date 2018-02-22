@@ -1,4 +1,12 @@
-<?php 
+<?php ?>
+<head>
+<link href="css.css" rel="stylesheet" type="text/css" media="all">
+<head>
+
+<body>
+<div class="form-style-8">
+  <h2>Creation du json postman</h2>
+<?php
 
 if( ! ini_get('date.timezone') )
 {
@@ -108,6 +116,15 @@ $full_liste = str_replace( ",]" , "]" , $full_liste);
 fputs($monfichier, $full_liste);
 fclose($monfichier);
 
-echo "<br /><br /><br /><br /><center><b><font color=green>= = = FICHIER JSON OK = = =<br /><br /> qualif-auto-" . $nom_file . ".postman_collection<font></b></center>";
+echo "<br /><center><b><font color=green>= = = FICHIER JSON OK = = =<br /><br /> qualif-auto-" . $nom_file . ".postman_collection</font></b></center>";
 
 ?>
+<br><br>
+
+<a href='index.php'>Retour home</a><br>
+<a href='save' style>Visualiser dossier fichiers txt des offres</a><br>
+<a href='json'>Visualiser dossier fichiers json</a>
+
+</div>
+</body>
+<?php ?>
