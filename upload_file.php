@@ -47,7 +47,10 @@ if ( $alert == false ) {
 ?>
 <br><br>
 <form method="POST" action="delete_liste.php" enctype="multipart/form-data">  
-     <input type="submit" name="envoyer" value="Creation du json postman">
+     <input type="submit" name="envoyer" value="Creation du json postman Qualif">
+</form>
+<form method="POST" action="delete_liste_local.php" enctype="multipart/form-data">  
+     <input type="submit" name="envoyer" value="Creation du json postman serveur local">
 </form>
 <?php } ?>
 
@@ -58,6 +61,25 @@ if ( $alert == false ) {
 <a href='json'>Visualiser dossier fichiers json</a>
 
 </div>
+
+<div class="form-style-8">
+<center>
+<?php
+$fic=fopen($fichier, "r"); 
+$i=1;
+
+while(!feof($fic)) 
+{ 
+
+    $ligne= fgets($fic,1024); 
+    echo $ligne . "<br>";
+}
+fclose($fic); 
+
+?>
+</center>
+</div>
+
 </body>
 <?php ?>
 

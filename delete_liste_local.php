@@ -19,7 +19,7 @@ $nom_file = date('d_m_Y-H_i_s');
 
 $liste01 = '{
 	"id": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
-	"name": " ##### DELETE QUALIF AUTO #####",
+	"name": " ##### DELETE local AUTO #####",
 	"description": "",
 	"order": [';
     
@@ -77,7 +77,7 @@ while(!feof($fic))
 					"enabled": true
 				}
 			],
-			"url": "afi-back-inowafi01.itn.intraorange/afi-back/v1/admin/offers/' . $verif . '/delete",
+			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/' . $verif . '/delete",
 			"queryParams": [],
 			"pathVariables": {},
 			"pathVariableData": [],
@@ -86,7 +86,7 @@ while(!feof($fic))
 			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
 			"data": [],
 			"dataMode": "raw",
-			"name": "# delete offer qualif - SQL QUALIF copy",
+			"name": "# delete offer local - SQL local copy",
 			"description": "",
 			"descriptionFormat": "html",
 			"time": 1519131125776,
@@ -110,13 +110,13 @@ $liste05 =  ']}';
 
 // CREATION JSON POUR POSTMAN
 
-$monfichier = fopen('json/qualif-auto-' . $nom_file . '.postman_collection', 'w+'); 
+$monfichier = fopen('json/local-auto-' . $nom_file . '.postman_collection', 'w+'); 
 $full_liste = $liste01 . $liste02 . $liste03 . $liste04 . $liste05;
 $full_liste = str_replace( ",]" , "]" , $full_liste);
 fputs($monfichier, $full_liste);
 fclose($monfichier);
 
-echo "<br /><center><b><font color=green>= = = FICHIER JSON OK = = =<br /><br /><a href='json/qualif-auto-" . $nom_file . ".postman_collection'> qualif-auto-" . $nom_file . ".postman_collection </a></font></b></center>";
+echo "<br /><center><b><font color=green>= = = FICHIER JSON OK = = =<br /><br /><a href='json/local-auto-" . $nom_file . ".postman_collection'> local-auto-" . $nom_file . ".postman_collection </a></font></b></center>";
 
 ?>
 <br><br>

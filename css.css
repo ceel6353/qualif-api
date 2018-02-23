@@ -1,19 +1,30 @@
-.form-style-8{
+.form-style-9{
     font-family: 'Open Sans Condensed', arial, sans;
-    width: 700px;
+    width: 1000px;
     padding: 30px;
     background: #FFFFFF;
     margin: 50px auto;
     box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
     -moz-box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
     -webkit-box-shadow:  0px 0px 15px rgba(0, 0, 0, 0.22);
-
+    font-size: 14px;
+}
+.form-style-8{
+    font-family: 'Open Sans Condensed', arial, sans;
+    width: 500px;
+    padding: 30px;
+    background: #FFFFFF;
+    margin: 50px auto;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
+    -moz-box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.22);
+    -webkit-box-shadow:  0px 0px 15px rgba(0, 0, 0, 0.22);
+    font-size: 14px;
 }
 .form-style-8 h2{
     background: #4D4D4D;
     text-transform: uppercase;
     font-family: 'Open Sans Condensed', sans-serif;
-    color: #797979;
+    color: #ff7200;
     font-size: 18px;
     font-weight: 100;
     padding: 20px;
@@ -63,7 +74,7 @@
     padding: 8px 18px;
     text-decoration: none;
     text-transform: uppercase;
-     width: 400px;
+    width: 495px;
 }
 .form-style-8 input[type="button"]:hover,
 .form-style-8 input[type="file"]:hover,
@@ -86,7 +97,7 @@ a:link
     padding: 8px 18px;
     text-decoration: none;
     text-transform: uppercase; 
-    width: 400px;    
+    width: 460px;    
 } 
 
 a:visited
