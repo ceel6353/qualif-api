@@ -13,9 +13,9 @@ if( ! ini_get('date.timezone') )
  $dir="save";//le repertoire
 
  $exten=array("txt");//les extensien autorisés
- $wid="70";//le width du miniature
- $hei="70";//le height du miniature
- $nbr_ligne=5;//nombre des miniatures par ligne
+ $wid="200";//le width du miniature
+ $hei="50";//le height du miniature
+ $nbr_ligne=4;//nombre des miniatures par ligne
  $l_supp="supprimer.png";//lien de l'images de suppression
  $couleur="black";//couleur du bordure
 
@@ -51,7 +51,7 @@ if( ! ini_get('date.timezone') )
 	 	if($j!=0&&$j%$nbr_ligne==0)
 	 		echo'</tr><tr align="center">';
 	 	$lien=explode("/%/",$dd[$j]);
-	 	echo'<td style="border:solid thin '.$couleur.'" align="center"><a href="'.$dir."/".$lien[1].'">'.$lien[1].'<br><br><a href="#" onclick="supp_im(\''.$lien[1].'\')"><img src="'.$l_supp.'" border="0"></td>';
+	 	echo'<td align="center"><a href="'.$dir."/".$lien[1].'">'.$lien[1].'<br><br><a href="#" onclick="supp_im(\''.$lien[1].'\')"><img src="'.$l_supp.'" border="0"></td>';
 	 }
 	 echo '</tr></table>';
 	 }
