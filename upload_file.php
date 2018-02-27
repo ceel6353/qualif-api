@@ -46,8 +46,11 @@ else
 if ( $alert == false ) {
 ?>
 <br><br>
-<form method="POST" action="delete_liste.php" enctype="multipart/form-data">  
-     <input type="submit" name="envoyer" value="Creation du json postman Qualif">
+<form method="POST" action="delete_liste_afi.php" enctype="multipart/form-data">  
+     <input type="submit" name="envoyer" value="Creation du json postman Qualif AFI">
+</form>
+<form method="POST" action="delete_liste_ope.php" enctype="multipart/form-data">  
+     <input type="submit" name="envoyer" value="Creation du json postman Qualif OPE">
 </form>
 <form method="POST" action="delete_liste_local.php" enctype="multipart/form-data">  
      <input type="submit" name="envoyer" value="Creation du json postman serveur local">
