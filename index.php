@@ -14,8 +14,8 @@
 </form>
 
 <br><br>
-<a href='save' style>Visualiser dossier fichiers txt des offres</a><br>
-<a href='json'>Visualiser dossier fichiers json</a>
+<a href='delete_txt.php?aff' style>Visualiser dossier fichiers txt des offres</a><br>
+<a href='delete_json.php?aff'>Visualiser dossier fichiers json</a>
 </div>
 
 <div class="form-style-8">
