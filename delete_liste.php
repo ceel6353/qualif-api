@@ -77,7 +77,7 @@ while(!feof($fic))
 					"enabled": true
 				}
 			],
-			"url": "afi-back-inowafi01.itn.intraorange/afi-back/v1/admin/offers/' . $verif . '/delete",
+			"url": "https://afi-back-inowafi01.itn.intraorange/afi-back/v1/admin/offers/' . $verif . '/delete",
 			"queryParams": [],
 			"pathVariables": {},
 			"pathVariableData": [],

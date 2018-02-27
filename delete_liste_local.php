@@ -77,7 +77,7 @@ while(!feof($fic))
 					"enabled": true
 				}
 			],
-			"url": "127.0.0.1:9999/ope-back/v1/admin/offers/' . $verif . '/delete",
+			"url": "http://127.0.0.1:9999/ope-back/v1/admin/offers/' . $verif . '/delete",
 			"queryParams": [],
 			"pathVariables": {},
 			"pathVariableData": [],

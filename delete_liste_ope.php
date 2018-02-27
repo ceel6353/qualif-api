@@ -77,7 +77,7 @@ while(!feof($fic))
 					"enabled": true
 				}
 			],
-			"url": "ope-back-inowope01.itn.intraorange/ope-back/v1/admin/offers/' . $verif . '/delete",
+			"url": "https://ope-back-inowope01.itn.intraorange/ope-back/v1/admin/offers/' . $verif . '/delete",
 			"queryParams": [],
 			"pathVariables": {},
 			"pathVariableData": [],
