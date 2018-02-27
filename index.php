@@ -16,9 +16,14 @@
 <br><br>
 <a href='save' style>Visualiser dossier fichiers txt des offres</a><br>
 <a href='json'>Visualiser dossier fichiers json</a>
-
-<br><br>V0.1 - 270218
 </div>
+
+<div class="form-style-8">
+<center>
+v0.1 # 270218
+</center>
+</div>
+
 </body>
 <?php ?>
 

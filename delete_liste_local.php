@@ -19,7 +19,7 @@ $nom_file = date('d_m_Y-H_i_s');
 
 $liste01 = '{
 	"id": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
-	"name": " ##### DELETE local AUTO #####",
+	"name": " ##### LOCAL - DELETE local AUTO #####",
 	"description": "",
 	"order": [';
     
@@ -36,7 +36,7 @@ $liste03 = '],
 $liste04 = '';
 
 $file = 'offers_liste.txt';
-$filebak= 'offers_liste-' . $nom_file . '.txt';
+$filebak= 'LOCAL-offers_liste-' . $nom_file . '.txt';
 
 // SAUVEGARDE FICHIER
 if (!copy($file, 'save/' . $filebak)) {
@@ -86,7 +86,7 @@ while(!feof($fic))
 			"collectionId": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
 			"data": [],
 			"dataMode": "raw",
-			"name": "# delete offer local - SQL local copy",
+			"name": "# LOCAL - delete offer local - SQL local copy",
 			"description": "",
 			"descriptionFormat": "html",
 			"time": 1519131125776,
@@ -108,15 +108,16 @@ fclose($fic);
 $liste05 =  ']}';
 
 
+
 // CREATION JSON POUR POSTMAN
 
-$monfichier = fopen('json/local-auto-' . $nom_file . '.postman_collection', 'w+'); 
+$monfichier = fopen('json/LOCAL-auto-' . $nom_file . '.postman_collection', 'w+'); 
 $full_liste = $liste01 . $liste02 . $liste03 . $liste04 . $liste05;
 $full_liste = str_replace( ",]" , "]" , $full_liste);
 fputs($monfichier, $full_liste);
 fclose($monfichier);
 
-echo "<br /><center><b><font color=green>= = = FICHIER JSON OK = = =<br /><br /><a href='json/local-auto-" . $nom_file . ".postman_collection'> local-auto-" . $nom_file . ".postman_collection </a></font></b></center>";
+echo "<br /><center><b><font color=green>= = = FICHIER JSON OK = = =<br /><br /><a href='json/LOCAL-auto-" . $nom_file . ".postman_collection'> local-auto-" . $nom_file . ".postman_collection </a></font></b></center>";
 
 ?>
 <br><br>

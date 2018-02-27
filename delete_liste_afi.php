@@ -19,7 +19,7 @@ $nom_file = date('d_m_Y-H_i_s');
 
 $liste01 = '{
 	"id": "c190a72e-1d61-f1f3-4b06-18ad38ed32b8",
-	"name": " ##### DELETE QUALIF AUTO #####",
+	"name": " ##### AFI - DELETE QUALIF AUTO #####",
 	"description": "",
 	"order": [';
     
@@ -106,6 +106,7 @@ while(!feof($fic))
 fclose($fic); 
 
 $liste05 =  ']}';
+
 
 
 // CREATION JSON POUR POSTMAN
